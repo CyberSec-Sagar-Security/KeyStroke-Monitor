@@ -80,6 +80,8 @@ The author is **NOT responsible** for any misuse of this software. Users are sol
 
 ## 🚀 Installation
 
+<img width="870" height="752" alt="image" src="https://github.com/user-attachments/assets/13d2b26b-28f1-4609-843e-25c9e99bac24" />
+
 ### Prerequisites
 - Python 3.8 or higher
 - Windows OS (for `pywin32` support)
