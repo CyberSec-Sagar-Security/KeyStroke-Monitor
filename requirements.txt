@@ -1,0 +1,15 @@
+# KeyStroke - Required Dependencies
+# Educational Keystroke Logger
+
+# Keyboard event monitoring
+pynput==1.7.6
+
+# Terminal colors and formatting
+colorama==0.4.6
+
+# Encryption support
+cryptography==41.0.7
+
+# Process and window information
+psutil==5.9.6
+pywin32==306
